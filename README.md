@@ -1,6 +1,6 @@
 # Java Projects Portfolio
 
-**Author:** Anirudh Gandhi\
+
 **Repository:** [Java --- GitHub](https://github.com/anirudh7537/Java)
 
 ## About This Repository
