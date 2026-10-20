@@ -189,4 +189,4 @@ a separate `README.md` inside that folder too.
 
 ------------------------------------------------------------------------
 
-**Maintained by Anirudh Gandhi**
+
